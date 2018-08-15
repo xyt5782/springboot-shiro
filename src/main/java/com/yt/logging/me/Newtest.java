@@ -5,4 +5,7 @@ package com.yt.logging.me;
  * @Date: 2018/8/15
  */
 public class Newtest {
+    public static void main(String[] args) {
+        System.out.println("hhh");
+    }
 }
